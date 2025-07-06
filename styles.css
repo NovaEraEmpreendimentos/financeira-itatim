@@ -41,7 +41,7 @@ body {
     box-shadow: 0 4px 16px rgba(59, 130, 246, 0.3);
 }
 .logo-image {
-    max-width: 400%;   /* deixa a imagem ocupar até 90% do quadrado */
+    max-width: 800%;   /* deixa a imagem ocupar até 90% do quadrado */
     max-height: 120; /* remove limite fixo na altura */
     /*width: auto;      /* mantém proporção */
     height: auto;
