@@ -40,11 +40,14 @@ body {
     margin-bottom: 20px;
     box-shadow: 0 8px 32px rgba(59, 130, 246, 0.3);
 }
-
 .logo-image {
-    max-width: 370px;
-    max-height: 140px;
-    object-fit: contain;
+    max-width: 90%;   /* deixa a imagem ocupar até 90% do quadrado */
+    max-height: none; /* remove limite fixo na altura */
+    width: auto;      /* mantém proporção */
+    height: auto;
+}
+
+
 }
 
 .header h1 {
