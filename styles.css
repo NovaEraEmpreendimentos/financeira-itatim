@@ -329,7 +329,7 @@ tbody tr:nth-child(even) {
 
 .print-logo-image {
     max-width: 100px;
-    max-height: 40px;
+    max-height: 25px;
     object-fit: contain;
 }
 
