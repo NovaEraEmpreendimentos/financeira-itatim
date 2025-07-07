@@ -35,19 +35,16 @@ body {
     align-items: center;
     justify-content: center;
     background: #ffffff;
-    padding: 5px;
+    padding: 10px;
     border-radius: 12px;
-    margin-bottom: 10px;
-    box-shadow: 0 4px 16px rgba(59, 130, 246, 0.3);
+    margin-bottom: 20px;
+    box-shadow: 0 8px 32px rgba(59, 130, 246, 0.3);
 }
+
 .logo-image {
-    max-width: 800%;   /* deixa a imagem ocupar até 90% do quadrado */
-    max-height: 120; /* remove limite fixo na altura */
-    /*width: auto;      /* mantém proporção */
-    height: auto;
-}
-
-
+    max-width: 200px;
+    max-height: 80px;
+    object-fit: contain;
 }
 
 .header h1 {
@@ -331,8 +328,8 @@ tbody tr:nth-child(even) {
 }
 
 .print-logo-image {
-    max-width: 250px;
-    max-height: 10px;
+    max-width: 150px;
+    max-height: 60px;
     object-fit: contain;
 }
 

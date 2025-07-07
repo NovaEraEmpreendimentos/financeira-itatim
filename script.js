@@ -211,7 +211,7 @@ function generatePrintContent() {
         <div class="print-contact">
             <p><i class="fas fa-phone"></i> Contato: 75 98134-2511</p>
             <p><i class="fas fa-envelope"></i> E-mail: novaerasolucoes.ba@gmail.com</p>
-            <p><i class="fab fa-instagram"></i> Instagram:novaera_solucoes_itatim</p>
+            <p><i class="fab fa-instagram"></i> Instagram:@novaera_solucoes_itatim</p>
             <p><i class="fas fa-map-marker-alt"></i> Endereço: Avenida Teotônio Vilela Nº 310, em frente à agência dos Correios</p>
             <p>Itatim - BA</p>
         </div>
